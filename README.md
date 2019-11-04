@@ -1,6 +1,6 @@
 # conference-app
 
-Here will be some information about the app.
+Conference app built using lightning web component.
 
 ## How to start?
 
